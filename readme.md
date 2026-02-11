@@ -1,3 +1,67 @@
-![Assembly](https://img.shields.io/badge/Assembly-%232EAD33.svg?style=for-the-badge&logo=assembly&logoColor=white)
+<h1 align="center">Hi, I'm Maryjose Martínez Regalado</h1>
 
-![RPG Maker](https://img.shields.io/badge/RPG%20Maker-%23FF0000.svg?style=for-the-badge&logo=rpg-maker&logoColor=white)
+###
+
+<h3 align="center">8th semester Computer Systems Engineering student</h3>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ I'm a Multiplatform Software Engineer | Systems & Infrastructure Enthusiast<br>📚 Currently learning Linux for servers.<br>🎯 Researched and presentated a scientific poster: "Percepciones y usos de la IA generativa en<br>estudiantes de ingeniería" at 5° Encuentro Científico y Tecnológico 2025 (ITESRC)<br>🌎 Spanish native, English B1 and Korean basic.<br>⭐ Interested in working on multidisciplinary projects.</p>
+
+###
+
+<h3 align="left">I'm pogramming with...</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="40" alt="kotlin logo"  />
+  ![XML](https://img.shields.io/badge/XML-%230060AC.svg?style=for-the-badge&logo=xml&logoColor=white)
+</div>
+
+###
+
+<h3 align="left">I'm working with...</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="40" alt="microsoftsqlserver logo"  />
+  ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%23D3D3D3.svg?style=for-the-badge&logo=phpmyadmin&logoColor=black)
+</div>
+
+###
+
+<h3 align="left">My Playground <3</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="40" alt="photoshop logo"  />
+  ![Assembly](https://img.shields.io/badge/Assembly-%232EAD33.svg?style=for-the-badge&logo=assembly&logoColor=white)
+  ![RPG Maker](https://img.shields.io/badge/RPG%20Maker-%23FF0000.svg?style=for-the-badge&logo=rpg-maker&logoColor=white)
+</div>
+
+###
