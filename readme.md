@@ -32,7 +32,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="40" alt="kotlin logo"  />
-  ![XML](https://img.shields.io/badge/XML-%230060AC.svg?style=for-the-badge&logo=xml&logoColor=white)
+  <img width="12" />
+  <img src="https://img.shields.io/badge/XML-%230060AC.svg?style=for-the-badge&logo=xml&logoColor=white" height="40" alt= xml logo" />
 </div>
 
 ###
@@ -46,8 +47,9 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="40" alt="microsoftsqlserver logo"  />
-  ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%23D3D3D3.svg?style=for-the-badge&logo=phpmyadmin&logoColor=black)
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="40" alt="microsoftsqlserver logo"  /> 
+  <img width="12" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-%23D3D3D3.svg?style=for-the-badge&logo=phpmyadmin&logoColor=black" height="40" alt="phphmyadmin logo" />
 </div>
 
 ###
@@ -60,8 +62,10 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="40" alt="photoshop logo"  />
-  ![Assembly](https://img.shields.io/badge/Assembly-%232EAD33.svg?style=for-the-badge&logo=assembly&logoColor=white)
-  ![RPG Maker](https://img.shields.io/badge/RPG%20Maker-%23FF0000.svg?style=for-the-badge&logo=rpg-maker&logoColor=white)
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Assembly-%232EAD33.svg?style=for-the-badge&logo=assembly&logoColor=white" height="40" alt="assembly logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/RPG%20Maker-%23FF0000.svg?style=for-the-badge&logo=rpg-maker&logoColor=white" height="40" alt="rpgmaker logo" />
 </div>
 
 ###
