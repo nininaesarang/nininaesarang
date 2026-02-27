@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/phpMyAdmin-%23D3D3D3.svg?style=for-the-badge&logo=phpmyadmin&logoColor=black" height="40" alt="phphmyadmin logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/mariaDB-4364DB?logo=mariadb&logoColor=white/style=for-the-badge" height="50" alt="mariadb logo" />
+  <img src="https://img.shields.io/badge/mariaDB-4364DB?logo=mariadb&logoColor=white&style=for-the-badge" height="40" alt="mariadb logo" />
 </div>
 
 ###
