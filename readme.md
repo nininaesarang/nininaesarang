@@ -30,10 +30,6 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/XML-%230060AC.svg?style=for-the-badge&logo=xml&logoColor=white" height="40" alt= xml logo" />
 </div>
 
 ###
@@ -50,6 +46,8 @@
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="40" alt="microsoftsqlserver logo"  /> 
   <img width="12" />
   <img src="https://img.shields.io/badge/phpMyAdmin-%23D3D3D3.svg?style=for-the-badge&logo=phpmyadmin&logoColor=black" height="40" alt="phphmyadmin logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/mariaDB-4364DB?logo=mariadb&logoColor=white/style=for-the-badge" height="40" alt="mariadb logo" />
 </div>
 
 ###
