@@ -12,7 +12,7 @@
 
 <p align="left">✨ I'm a Multiplatform Software Engineer | Systems & Infrastructure Enthusiast<br>📚 Currently learning Linux for servers.<br>🎯 Researched and presentated a scientific poster: "Percepciones y usos de la IA generativa en<br>estudiantes de ingeniería" at 5° Encuentro Científico y Tecnológico 2025 (ITESRC)<br>🌎 Spanish native, English B1 and Korean basic.<br>⭐ Interested in working on multidisciplinary projects.</p>
 
-###-
+###
 
 <h3 align="left">I'm working with LAMP stack!</h3>
 <div align="left">
@@ -22,8 +22,10 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/mariaDB-4364DB?logo=mariadb&logoColor=white&style=for-the-badge" height="40" alt="mariadb logo" />
   <img width="12" />
+  <img src="https://img.shields.io/badge/PHP-520DD9?LOGO=php&logoColor=white&style=for-the-badge" height="40" alt="php logo" />
   
 ###
+
 <h3 align="left">I'm pogramming with...</h3>
 
 ###
@@ -39,9 +41,13 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
 </div>
+
 ###
+
 <h3 align="left">My DBMS knowledge</h3>
+
 ###
+
 <div align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
   <img width="12" />
