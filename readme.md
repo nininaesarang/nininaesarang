@@ -22,7 +22,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/mariaDB-4364DB?logo=mariadb&logoColor=white&style=for-the-badge" height="40" alt="mariadb logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/PHP-520DD9?LOGO=php&logoColor=white&style=for-the-badge" height="40" alt="php logo" />
+  <img src="https://img.shields.io/badge/PHP-520DD9?LOGO=php&logoColor=white&style=for-the-badge" height="40" alt="PHP logo" />
   
 ###
 
