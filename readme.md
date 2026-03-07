@@ -12,8 +12,18 @@
 
 <p align="left">✨ I'm a Multiplatform Software Engineer | Systems & Infrastructure Enthusiast<br>📚 Currently learning Linux for servers.<br>🎯 Researched and presentated a scientific poster: "Percepciones y usos de la IA generativa en<br>estudiantes de ingeniería" at 5° Encuentro Científico y Tecnológico 2025 (ITESRC)<br>🌎 Spanish native, English B1 and Korean basic.<br>⭐ Interested in working on multidisciplinary projects.</p>
 
-###
+###-
 
+<h3 align="left">I'm working with LAMP stack!</h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Apache-F56C27?logo=apache&logoColor=white&style=for-the-badge" height="40" alt="Apache logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/mariaDB-4364DB?logo=mariadb&logoColor=white&style=for-the-badge" height="40" alt="mariadb logo" />
+  <img width="12" />
+  
+###
 <h3 align="left">I'm pogramming with...</h3>
 
 ###
@@ -23,21 +33,15 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="40" alt="php logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
 </div>
-
 ###
-
-<h3 align="left">I'm working with...</h3>
-
+<h3 align="left">My DBMS knowledge</h3>
 ###
-
 <div align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
   <img width="12" />
@@ -46,24 +50,7 @@
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="40" alt="microsoftsqlserver logo"  /> 
   <img width="12" />
   <img src="https://img.shields.io/badge/phpMyAdmin-%23D3D3D3.svg?style=for-the-badge&logo=phpmyadmin&logoColor=black" height="40" alt="phphmyadmin logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/mariaDB-4364DB?logo=mariadb&logoColor=white&style=for-the-badge" height="40" alt="mariadb logo" />
-</div>
-
-###
-
-<h3 align="left">My Playground <3</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Assembly-%232EAD33.svg?style=for-the-badge&logo=assembly&logoColor=white" height="40" alt="assembly logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/RPG%20Maker-%23FF0000.svg?style=for-the-badge&logo=rpg-maker&logoColor=white" height="40" alt="rpgmaker logo" />
+  
 </div>
 
 ###
